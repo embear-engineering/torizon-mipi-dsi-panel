@@ -1,0 +1,3 @@
+[submodule "sample-kernel-modules"]
+	path = sample-kernel-modules
+	url = git@github.com:embear-engineering/sample-kernel-modules.git
